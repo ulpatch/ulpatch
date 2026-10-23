@@ -5,3 +5,7 @@ This file provides context for AI agents when working on the ULPatch codebase.
 ## Project overview
 
 ULPatch is open source user space live patch tool.
+
+## ULPatch Documentation
+
+See https://rtoax.github.io/ulpatch or https://rtoax.github.io/ulpatch/zh/
