@@ -76,4 +76,5 @@ I'm a Linux Newbie, little student.
 
 - [GitHub RToax ULPatch](https://github.com/Rtoax/ulpatch)
 	- [GitHub ULPatch](https://github.com/ulpatch)
+	- Mirror: [Gitee ULPatch](https://gitee.com/rtoax/ulpatch)
 - [ULPatch Documentation](https://rtoax.github.io/ulpatch/) / [zh](https://rtoax.github.io/ulpatch/zh/).
